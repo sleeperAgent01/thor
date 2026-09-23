@@ -1,4 +1,4 @@
-# THOR
+# Proyecto Thor
 
 Repositorio de datos y registros de correcciones del proyecto **THOR**.
 
